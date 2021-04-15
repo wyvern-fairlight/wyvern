@@ -54,3 +54,7 @@ we provide a wallet app until the coin has evolved onto exchanged
 ### 9. copyright or license? 
 
 no
+
+### 10. contact
+
+hi@wyvern.ch
