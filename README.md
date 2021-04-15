@@ -1,6 +1,8 @@
-# wyvern core crypto-stock
+# Wyvern
 
-this is the representation of wyvern (intrinsics) ltd. shares and general cryptographic currency with an exchange rate to bitcoin core.
+## Symbol WYV
+
+representation of wyvern (intrinsics) ltd. shares and general cryptographic currency with an exchange rate to bitcoin core.
 
 ![linkedlist blockchain](B40E11D9-40F1-495D-94D7-930CCCEE0D22.jpeg)
 
