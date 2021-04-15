@@ -4,6 +4,16 @@ this is the representation of wyvern (intrinsics) ltd. shares and general crypto
 
 ![linkedlist blockchain](B40E11D9-40F1-495D-94D7-930CCCEE0D22.jpeg)
 
+jpeg)
+
+## Why a new Blockchain and How does it work 
+- 1. ICOs generally require preinvestment and require to split coins of an existing blockchain
+we do not want to depend on ethereum unfortunately
+- 2. Seed Investment
+Launching a company requires the goodwill of seed investors which is hard to reflect at *nominal* (crypto)currency. we're reflecting the non-tangible value of pre-seed immaterial assets and startup potental with [preorders] and [orders]. as an investor or crypto trader you may select whether your on-the-fence is entirely anonymous or you may leave a comment indicating your identity or stake in bitcoin, polkadot or dogecoin by leaving a wallet address
+- 3. Programming Language
+Python3 and Perl6
+
 ## FAQ
 - 1. is this a ERC-20 token?
 no
