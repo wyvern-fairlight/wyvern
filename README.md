@@ -4,8 +4,6 @@ this is the representation of wyvern (intrinsics) ltd. shares and general crypto
 
 ![linkedlist blockchain](B40E11D9-40F1-495D-94D7-930CCCEE0D22.jpeg)
 
-jpeg)
-
 ## Why a new Blockchain and How does it work 
 - 1. ICOs generally require preinvestment and require to split coins of an existing blockchain
 we do not want to depend on ethereum unfortunately
